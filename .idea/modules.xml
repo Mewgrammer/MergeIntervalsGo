@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MergeIntervalsGo.iml" filepath="$PROJECT_DIR$/MergeIntervalsGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intervals.iml" filepath="$PROJECT_DIR$/.idea/intervals.iml" />
     </modules>
   </component>
 </project>
