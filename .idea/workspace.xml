@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65f2dc0e-3907-4b7a-971d-d9133026bb58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeIntervals.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeIntervalsGo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intervals/mergeIntervals.go" beforeDir="false" afterPath="$PROJECT_DIR$/intervals/mergeIntervals.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +88,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/intervals/mergeIntervals.go</url>
-          <line>61</line>
+          <line>62</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>

@@ -32,9 +32,10 @@ func ParseSlice(serialized string) ([]Interval, error ) {
 			endVal, err := strconv.Atoi(strings.TrimSpace(pair[1]))
 			if err != nil {
 				errorStr += fmt.Sprintf("%v", err)
+			} else {
+				interval := Interval{startVal, endVal}
+				intervals = append(intervals, interval)
 			}
-			interval := Interval{startVal, endVal}
-			intervals = append(intervals, interval)
 		}
 	}
 	if len(errorStr) > 0 {
